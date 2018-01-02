@@ -23,4 +23,5 @@ bruke flest mulig av Pythons muligheter for å bli kjent med dem.
 
 Skriv en pent satt og korrekt strukturert PDF-rapport i LaTeX med
 korrekt bruk av ligninger, figurer, tabeller, kodelistinger,
-kryssreferanser, siteringer etc. Leveres individuelt i Blackboard.
+kryssreferanser, siteringer etc. Rapporten _skal_ inneholde en lenke
+til Bitbucket-repoet. Leveres individuelt i Blackboard.
