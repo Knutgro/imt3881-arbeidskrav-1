@@ -16,7 +16,8 @@
 Lag python-script som leser en selvvalgt datafil (finn f.eks. noe du
 er interessert i på SSB, en log-fil eller noe annet), parser den,
 beregner noen avledede variable (f.eks. gjennomsnitt, standardavvik),
-og lager et par fine grafiske fremstillinger av dataene.
+og lager et par fine grafiske fremstillinger av dataene. Sørg for å
+bruke flest mulig av Pythons muligheter for å bli kjent med dem.
 
 # Rapport
 
