@@ -8,6 +8,7 @@
 * La både kode og rapport bo i repoet under katalogene _src_ og
   _rapport_.
 * Sørg for jevnlige commits. Dette dokumenterer arbeidsprosessen.
+  Knut: Dette så jeg litt for sent.
 * Levér inn rapport som PDF i Blackboard. PDF-en må inneholde URL-en
   til repoet.
 
